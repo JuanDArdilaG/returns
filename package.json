@@ -1,0 +1,25 @@
+{
+  "name": "@juandardilag/returns",
+  "version": "1.0.7",
+  "description": "Custom Returns",
+  "main": "Returns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "tsc && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDArdilaG/returns.git"
+  },
+  "keywords": [
+    "returns",
+    "nodejs"
+  ],
+  "author": "Juan D. Ardila G.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanDArdilaG/returns/issues"
+  },
+  "homepage": "https://github.com/JuanDArdilaG/returns#readme",
+  "type": "module"
+}
