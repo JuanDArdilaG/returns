@@ -1,4 +1,4 @@
-import { IError } from "./Failed";
+import { IError } from "./Failed.js";
 
 interface IResponse {
   data: any;
