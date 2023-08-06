@@ -66,8 +66,3 @@ class Response {
 
 export default Response;
 export { IResponse };
-
-interface IMongooseError {
-  name: string;
-  code: string | number;
-}

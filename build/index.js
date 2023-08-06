@@ -1,6 +1,2 @@
-import Response from "./Response/Response.js";
-export default class Returns {
-    static success(data, errors, metadata = {}) { }
-}
-export { Response };
+export * from "./Response/Response.js";
 //# sourceMappingURL=index.js.map
